@@ -2,7 +2,8 @@ name: Grading workflow
 
 on:
   registry_package:
-    types: [published]
+    #types: [published]
+    types: [updated]
   workflow_dispatch:
 
 jobs:
