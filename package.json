@@ -1,6 +1,6 @@
 {
   "name": "@wdpankow/exercise-publish-package",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "This exercise checks your ability to publish to a GitHub Packages registry. It is automatically graded via a workflow once you have completed the instructions.",
   "main": "index.js",
   "scripts": {
